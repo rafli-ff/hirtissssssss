@@ -78,7 +78,6 @@ pyparsing==3.2.3
 pyserial==3.5
 python-dateutil==2.9.0.post0
 pytz==2024.2
-pywin32==306
 pyzmq==26.2.0
 referencing==0.36.2
 regex==2024.9.11
@@ -101,7 +100,7 @@ tensorflow-io-gcs-filesystem==0.31.0
 termcolor==3.1.0
 threadpoolctl==3.5.0
 toml==0.10.2
-torch==2.8.0+cpu
+torch
 torchaudio==2.8.0+cpu
 torchvision==0.23.0+cpu
 tornado==6.4.1
