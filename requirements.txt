@@ -1,3 +1,5 @@
+--extra-index-url https://download.pytorch.org/whl/cpu
+
 absl-py==2.3.1
 altair==5.5.0
 asttokens==2.4.1
@@ -100,9 +102,9 @@ tensorflow-io-gcs-filesystem==0.31.0
 termcolor==3.1.0
 threadpoolctl==3.5.0
 toml==0.10.2
-torch
-torchaudio==2.8.0+cpu
-torchvision==0.23.0+cpu
+torch==2.2.2
+torchvision==0.17.2
+torchaudio==2.2.2
 tornado==6.4.1
 tqdm==4.66.5
 traitlets==5.14.3
