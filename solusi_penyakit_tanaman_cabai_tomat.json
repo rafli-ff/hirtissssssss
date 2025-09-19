@@ -1,0 +1,86 @@
+[
+    {
+        "Tanaman":"Cabai",
+        "Penyakit":"Cabai_Bercak_Daun",
+        "Penyebab":"Jamur seperti Cercospora capsici atau Alternaria solani",
+        "Gejala":"Daun menunjukkan bercak-bercak coklat kehitaman, sering dikelilingi oleh lingkaran kuning, menyebabkan daun rontok.",
+        "Solusi":"1. Gunakan fungisida berbahan aktif mankozeb atau klorotalonil secara teratur setiap 7\u201310 hari.\n2. Buang daun yang terinfeksi dan lakukan sanitasi lahan.\n3. Gunakan varietas tahan penyakit jika tersedia.\n4. Hindari penyiraman dari atas yang membuat daun lembab.\n5. Berikan jarak tanam yang cukup agar sirkulasi udara baik."
+    },
+    {
+        "Tanaman":"Cabai",
+        "Penyakit":"Cabai_Daun_Menggulung",
+        "Penyebab":"Serangan hama kutu daun atau whitefly, kekurangan air atau pupuk nitrogen",
+        "Gejala":"Daun menggulung ke atas atau bawah, tanaman tampak kerdil.",
+        "Solusi":"1. Semprotkan insektisida sistemik berbahan aktif imidakloprid untuk mengendalikan kutu.\n2. Periksa kelembapan tanah dan pastikan tanaman tidak kekeringan.\n3. Tambahkan pupuk nitrogen bila kekurangan nutrisi.\n4. Rotasi tanaman dan penggunaan mulsa untuk mengurangi populasi hama."
+    },
+    {
+        "Tanaman":"Cabai",
+        "Penyakit":"Cabai_Kekurangan_Nutrisi",
+        "Penyebab":"Defisiensi unsur hara seperti nitrogen, kalium, atau magnesium",
+        "Gejala":"Pertumbuhan lambat, daun menguning dari bawah, tepi daun kering.",
+        "Solusi":"1. Berikan pupuk NPK seimbang secara berkala.\n2. Tambahkan pupuk daun atau mikro (Mg, Ca, Fe) jika gejala parah.\n3. Cek dan sesuaikan pH tanah agar berada di kisaran 5.5\u20136.5.\n4. Gunakan kompos atau pupuk organik sebagai penunjang kesehatan tanah."
+    },
+    {
+        "Tanaman":"Cabai",
+        "Penyakit":"Cabai_Sehat",
+        "Penyebab":"-",
+        "Gejala":"-",
+        "Solusi":"Tanaman dalam kondisi sehat. Pertahankan pola perawatan yang baik seperti penyiraman teratur, pemberian pupuk seimbang, dan pengendalian hama secara preventif."
+    },
+    {
+        "Tanaman":"Cabai",
+        "Penyakit":"Cabai_Spot_Putih",
+        "Penyebab":"Kutu putih (whiteflies) atau infeksi jamur Colletotrichum",
+        "Gejala":"Bercak putih pada daun, bisa disertai lapisan seperti jamur atau embun.",
+        "Solusi":"1. Semprotkan insektisida nabati (neem oil) atau kimia berbahan aktif bifentrin.\n2. Gunakan fungisida sistemik untuk infeksi jamur.\n3. Lakukan pembersihan gulma dan daun terinfeksi.\n4. Gunakan perangkap kuning untuk menekan populasi kutu putih."
+    },
+    {
+        "Tanaman":"Cabai",
+        "Penyakit":"Cabai_Virus_Cercospora",
+        "Penyebab":"Jamur Cercospora capsici",
+        "Gejala":"Bercak kecil bundar berwarna coklat gelap dengan tepi kuning pada daun bawah.",
+        "Solusi":"1. Cabut dan musnahkan tanaman terinfeksi berat.\n2. Gunakan fungisida protektif seperti mankozeb atau tembaga oksiklorida.\n3. Rotasi tanaman minimal 1 musim tanam.\n4. Tingkatkan kebersihan lahan dan drainase yang baik."
+    },
+    {
+        "Tanaman":"Tomat",
+        "Penyakit":"Tomat_Awal_Busuk_Daun",
+        "Penyebab":"Jamur Phytophthora infestans (penyebab busuk daun awal)",
+        "Gejala":"Bercak kecil coklat gelap pada ujung atau tepi daun yang meluas dengan cepat saat cuaca lembab.",
+        "Solusi":"1. Gunakan fungisida berbahan aktif seperti klorotalonil atau metalaksil secara preventif.\n2. Hindari penyiraman dari atas dan jaga jarak tanam agar sirkulasi udara baik.\n3. Buang daun yang terinfeksi dan jangan ditinggalkan di area pertanaman.\n4. Gunakan varietas tahan penyakit jika tersedia."
+    },
+    {
+        "Tanaman":"Tomat",
+        "Penyakit":"Tomat_Bercak_Daun",
+        "Penyebab":"Jamur Alternaria solani",
+        "Gejala":"Bercak coklat kehitaman pada daun dengan pola melingkar seperti target, biasanya pada daun tua.",
+        "Solusi":"1. Gunakan fungisida berbahan aktif tembaga atau klorotalonil.\n2. Hindari kelembapan berlebih dan lakukan rotasi tanaman.\n3. Buang daun bawah yang terinfeksi dan jaga kebersihan lahan.\n4. Lakukan pemupukan yang tepat agar tanaman tidak stres."
+    },
+    {
+        "Tanaman":"Tomat",
+        "Penyakit":"Tomat_Bercak_Septoria",
+        "Penyebab":"Jamur Septoria lycopersici",
+        "Gejala":"Bercak kecil bulat dengan pusat abu-abu dan tepi coklat, terutama di daun bawah.",
+        "Solusi":"1. Gunakan fungisida klorotalonil atau tembaga hidroksida.\n2. Singkirkan daun yang terinfeksi sejak dini.\n3. Hindari penyiraman daun dan tingkatkan sirkulasi udara.\n4. Tanam varietas tahan jika tersedia dan lakukan rotasi lahan."
+    },
+    {
+        "Tanaman":"Tomat",
+        "Penyakit":"Tomat_Busuk_Daun",
+        "Penyebab":"Phytophthora infestans (penyakit akhir busuk daun)",
+        "Gejala":"Daun menunjukkan bercak coklat besar, batang menghitam, dan buah membusuk.",
+        "Solusi":"1. Gunakan fungisida sistemik seperti fosetil-Al dan metalaksil.\n2. Singkirkan bagian tanaman yang sakit dan bakar jika perlu.\n3. Lakukan rotasi tanaman minimal 2 musim tanam.\n4. Jaga kebersihan kebun dan drainase lahan yang baik."
+    },
+    {
+        "Tanaman":"Tomat",
+        "Penyakit":"Tomat_Daun_Kuning",
+        "Penyebab":"Virus (TYLCV), kekurangan nitrogen atau magnesium",
+        "Gejala":"Daun menguning dari bawah ke atas, tanaman tumbuh kerdil.",
+        "Solusi":"1. Gunakan pupuk nitrogen dan magnesium bila disebabkan defisiensi nutrisi.\n2. Untuk infeksi virus, musnahkan tanaman dan kendalikan vektor seperti whitefly.\n3. Gunakan varietas tahan TYLCV dan perangkap serangga.\n4. Lakukan sanitasi dan rotasi tanaman dengan keluarga berbeda."
+    },
+    {
+        "Tanaman":"Tomat",
+        "Penyakit":"Tomat_Sehat",
+        "Penyebab":"-",
+        "Gejala":"-",
+        "Solusi":"Tanaman dalam kondisi sehat. Pertahankan pola perawatan seperti penyiraman teratur, pemupukan seimbang, dan pemantauan hama secara berkala agar tetap produktif."
+    }
+]
